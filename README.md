@@ -18,7 +18,7 @@
   
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
-| Aplicaciones | Visto |
+    | Aplicaciones | Visto |
 | --- | --- |
 | Google Docs | :heavy_check_mark: |
 | Google Slides | :heavy_check_mark: |
@@ -31,7 +31,7 @@
   
     Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web
 
-```html
+    ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
